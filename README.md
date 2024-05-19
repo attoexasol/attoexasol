@@ -65,3 +65,17 @@ We leverage a broad array of technologies to deliver innovative and effective so
   - WordPress
   - Shopify
   - MERN Stack (MongoDB, Express, React, Node.js)
+ 
+  ## Team
+
+Our team is composed of skilled professionals with a passion for technology and innovation:
+
+- **MST Jannatul Mowa** - CEO & Founder
+- **Md Tanjil Ur Rashid** - Lead Developer
+- **Sabbir Ornob** - UI/UX Designer
+- **Shahrial Islam Pranto** - Junior Web Developer
+- **Muskan Akter** - Junior Web Developer
+- **Md. Shahid Jahan Sadik** - Junior Web Developer
+- **Md. Abdullah** - Full Stack Web Developer
+
+For more details about our team, visit our [team page](link-to-team-page).
