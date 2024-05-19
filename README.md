@@ -1,6 +1,6 @@
 
 
-Welcome to **Your Agency Name**! We are a versatile IT agency specializing in a wide range of web development and IT solutions. Our expertise spans across various technologies including WordPress, Shopify, MERN stack, PHP, Laravel, and more. We are committed to delivering top-notch solutions to meet your business needs.
+Welcome to **AttoExa Solutions**! We are a versatile IT agency specializing in a wide range of web development and IT solutions. Our expertise spans across various technologies including WordPress, Shopify, MERN stack, PHP, Laravel, and more. We are committed to delivering top-notch solutions to meet your business needs.
 
 ## Table of Contents
 
