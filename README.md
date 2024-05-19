@@ -79,3 +79,15 @@ Our team is composed of skilled professionals with a passion for technology and 
 - **Md. Abdullah** - Full Stack Web Developer
 
 For more details about our team, visit our [team page](link-to-team-page).
+
+## Contact Us
+
+We would love to hear from you! For inquiries, please reach out to us via the following channels:
+
+- **Email**: attoexasolutions@gmail.com
+- **Phone**: +000000000000
+- **Address**: House No. 35, Road 2, Block B, Banasree, Rampura, Dhaka 1209
+- **Website**: [www.attoexasolutions.com](https://attoexasolutions.com/)
+
+Follow us on [LinkedIn](https://bd.linkedin.com/in/atto-exa-solutions-7285a3295), [Twitter](https://x.com/AttoExaSolution), and [Facebook](https://www.facebook.com/weareattoexa) for updates and news.
+
