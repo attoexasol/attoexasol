@@ -1,4 +1,5 @@
 
+<img width="1280" alt="Mask group" src="https://github.com/attoexasol/attoexasol/assets/140740902/aaa66b26-6507-40c0-84a2-723819064973">
 
 Welcome to **AttoExa Solutions**! We are a versatile IT agency specializing in a wide range of web development and IT solutions. Our expertise spans across various technologies including WordPress, Shopify, MERN stack, PHP, Laravel, and more. We are committed to delivering top-notch solutions to meet your business needs.
 
